@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurGroceries", "OurGroceries\OurGroceries.csproj", "{A6B0B3D2-A63C-495E-83D9-F7D2CD126A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurGroceries.API", "OurGroceries.API\OurGroceries.API.csproj", "{8DF284C2-3555-44E6-90BB-6180130BAE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B0B3D2-A63C-495E-83D9-F7D2CD126A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B0B3D2-A63C-495E-83D9-F7D2CD126A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B0B3D2-A63C-495E-83D9-F7D2CD126A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B0B3D2-A63C-495E-83D9-F7D2CD126A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF284C2-3555-44E6-90BB-6180130BAE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF284C2-3555-44E6-90BB-6180130BAE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF284C2-3555-44E6-90BB-6180130BAE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF284C2-3555-44E6-90BB-6180130BAE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3681E60C-C875-450E-B9CD-6A7BD013FC91}
+	EndGlobalSection
+EndGlobal
