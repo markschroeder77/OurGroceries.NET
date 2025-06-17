@@ -1,5 +1,5 @@
 # OurGroceries.NET
-This is a .net library to access the ourgroceries.com api
+This is an unofficial .net library to access the ourgroceries.com api
 
 This is a fork of [https://github.com/ljmerza/py-our-groceries](https://github.com/ljmerza/py-our-groceries) (Thanks!)  
 The python library was sent through an AI to convert it to c#.  
