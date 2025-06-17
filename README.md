@@ -8,7 +8,7 @@ No human brain was strained.
 
 Only limited testing has been done on the library, but it seems to function correctly. (Could probably do with some more error handling)
 
-If you make any improvments, please submit a PR.
+If you make any improvements, please submit a PR.
 
 # Usage
 
